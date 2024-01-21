@@ -1,4 +1,4 @@
-FundId,Name,Asset Class,Morning Star Category,Fund Inception Date,Fund Assets ($MM),Primary Benchmark,Gross Expense Ratio (%),Net Expense Ratio (%),Management Fees (%),Fund_Performance,Fund_Holdings,Minimum Initial Investment ($)
+FundId,Name,Asset_Class,Morning_Star_Category,Fund_Inception_Date,Fund_Assets,Primary_Benchmark,Gross_Expense_Ratio,Net_Expense_Ratio,Management_Fees,Fund_Performance,Fund_Holdings,Minimum_Initial_Investment
 F-101,DBX Global Real Estate Fund,Global Listed Real Assets,Global Real Estate ,08/30/2006,328,FTSE EPRA Nareit Developed Real Estate Net Total Return Index,1.59,0.94,0.8,f_101_performance,f_101_fund_holdings,"1,000,000.00"
 F-102,DBX Fixed Income Portfolio,Fixed Income,Intermediate Core-Plus Bond,11/14/1984,524.95,"Bloomberg U.S. Aggregate Index
 ",0.63,0.42,0.38,f_102_performance,f_102_fund_holdings,"1,000,000.00"
